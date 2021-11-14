@@ -1,0 +1,54 @@
+.homepage_title{
+  color:black;
+  font-size:100px;
+  font-family:"Tahoma";
+}
+.homepage{
+  background-color:white;
+  text-align:center;
+  font-size:45px;
+}
+.page1{
+  color:white;
+  font-size:35px;
+  text-align:center;
+  background-image: url("image/night_sky.jpg")
+}
+.page2{
+  color:black;
+  font-size:35px;
+  text-align:center;
+  background-color:Thistle;
+}
+.page3{
+  color:black;
+  font-size:35px;
+  text-align:center;
+  background-image: url("image/snow.png")
+}
+.picture1{
+  position:relative;
+  top:-900px; left:600px;
+}
+.picture2{
+  position:relative;
+  top:-2500px; right:600px;
+}
+.picture3{
+  position:relative;
+  top:-500px;
+}
+.page4{
+  color:black;
+  background-color:white;
+  text-align:left;
+  font-family:"Times New Roman";
+  font-size:40px;
+}
+#page4_title{
+  color:black;
+  background-color:white;
+  text-align:center;
+  font-family:"Times New Roman";
+  font-size:40px;
+}
