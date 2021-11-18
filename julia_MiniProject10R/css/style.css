@@ -1,0 +1,61 @@
+html,body{
+  background-color:DarkGreen;
+}
+.text{
+  font-size: 30px;
+  font-weight: bold;
+}
+#myCanvas {
+  position: absolute;
+  right: 20px;
+  top: 85px;
+}
+
+.picture1{
+  position: absolute;
+  border-width:20px;
+  width:400px;
+  height:530px;
+  border-style:dotted;
+  border-color:LightGreen;
+  padding:20px;
+
+  right:750px;
+  top:900px;
+}
+.picture2{
+  position: absolute;
+  border-width:20px;
+  width:400px;
+  height:300px;
+  border-style:dotted;
+  border-color:LightGreen;
+  padding:20px;
+
+  right:20px;
+  top:900px;
+}
+.picture3{
+  position: absolute;
+  border-width:20px;
+  width:600px;
+  height:650px;
+  border-style:dotted;
+  border-color:LightGreen;
+  padding:20px;
+
+  top:130px;
+  right:1530px;
+}
+.picture4{
+  position: absolute;
+  border-width:20px;
+  width:600px;
+  height:360px;
+  border-style:dotted;
+  border-color:LightGreen;
+  padding:20px;
+
+  right:1530px;
+  top:900px;
+}
