@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+.picture1{
+  position: absolute;
+  left: 750px;
+}
+.text{
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+  color:white;
+}
