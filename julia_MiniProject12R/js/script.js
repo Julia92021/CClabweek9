@@ -11,6 +11,7 @@ function draw() {
     let x = random(width);
     let y = random(height);
     let side = random(5, 25);
+    let side2 = random(5, 10);
 
     let clr = img.get(x, y);
 
@@ -20,6 +21,8 @@ function draw() {
     fill(r, g, b);
     noStroke();
     square(x, y, side);
+    fill(255,255,153);
+    square(mouseX, mouseY, side2);
   }
   img.updatePixels();
 }
