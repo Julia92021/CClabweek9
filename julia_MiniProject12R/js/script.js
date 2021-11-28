@@ -1,6 +1,6 @@
 let img;
 function setup() {
-  createCanvas(715, 2900);
+  createCanvas(715, 2800);
   background(0);
   img = loadImage("assets/eclipse.jpg");
 }
