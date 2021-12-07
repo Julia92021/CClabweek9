@@ -1,0 +1,23 @@
+#myCanvas{
+  position:absolute;
+  right:20px;
+  top:220px;
+}
+.title{
+  font-size: 50px;
+  text-align: center;
+  font-family: fantasy;
+}
+.subtitle{
+  font-size:40px;
+  text-align: center;
+  font-family: serif;
+}
+.text{
+  font-size:30px;
+  text-align:left;
+  font-family: serif;
+}
+.text2{
+  font-size:30px;
+}
